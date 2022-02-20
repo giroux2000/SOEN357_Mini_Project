@@ -20,29 +20,29 @@ We chose to develop user personas as they help us get a better understanding of 
 
 ### USER PERSONA 1: THOMAS CLARK, THE PRESCIENT
 
-![User Persona 1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up1-1.png)
+![User Persona 1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up1-1.png 'up1')
 
 ### USER PERSONA 2: CHARLOTTE WALKER, THE COMFORTABLE
 
-![User Persona 2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up2-1.png)
+![User Persona 2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up2-1.png 'up2')
 
 ### USER PERSONA 3: CHARLES TRENT, THE LIFELONG ADVENTURER
 
-![User Persona 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up3-1.png)
+![User Persona 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up3-1.png 'p3')
 
 ## USER JOURNEYS
 
 ### USER JOURNEY 1: THOMAS CLARK
 
-![User Journey 1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj1.png)
+![User Journey 1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj1.png 'uj1')
 
 ### USER JOURNEY 2: CHARLOTTE WALKER
 
-![User Journey 2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj2.png)
+![User Journey 2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj2.png 'uj2')
 
 ### USER JOURNEY 3: CHARLES TRENT
 
-![User Journey 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj3.png)
+![User Journey 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj3.png 'uj3')
 
 ## APPENDIX 
 
