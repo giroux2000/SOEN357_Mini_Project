@@ -22,6 +22,8 @@ We chose to develop user personas as they help us get a better understanding of 
 
 ![User Persona 1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up1-1.png)
 
+issue
+
 ### USER PERSONA 2: CHARLOTTE WALKER, THE COMFORTABLE
 
 ![User Persona 2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up2-1.png)
