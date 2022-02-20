@@ -20,15 +20,15 @@ We chose to develop user personas as they help us get a better understanding of 
 
 ### USER PERSONA 1: THOMAS CLARK, THE PRESCIENT
 
-![User Persona 1](https://github.com/giroux2000/SOEN357_Mini_Project/blob/gh-pages/up1-1.png)
+![User Persona 1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up1-1.png)
 
 ### USER PERSONA 2: CHARLOTTE WALKER, THE COMFORTABLE
 
-![User Persona 2](https://github.com/giroux2000/SOEN357_Mini_Project/blob/gh-pages/up2-1.png)
+![User Persona 2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up2-1.png)
 
 ### USER PERSONA 3: CHARLES TRENT, THE LIFELONG ADVENTURER
 
-![User Persona 3](https://github.com/giroux2000/SOEN357_Mini_Project/blob/gh-pages/up3-1.png)
+![User Persona 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up3-1.png)
 
 ## USER JOURNEYS
 
