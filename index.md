@@ -10,7 +10,7 @@
   
 ## USER RESEARCH
  
- We decided to use questionnaires to gather our user data. We did so using Google Forms and asked a variety of questions. The style of questions that were used include closed questions, open questions, and Likert scale questions. We asked our users about a variety of subjects such as physical activity, stress, and how they interact with technology/social media. Google Forms then provided us with data based on the answers. Below, we will be presenting the data that we found the most useful for designing our various models (ex. user personas, empathy maps, wireframes, etc.). The questionnaire and consent signatures can be found in the appendix.
+ We decided to use questionnaires to gather our user data. We did so using Google Forms and asked a variety of questions. The style of questions that were used include closed questions, open questions, and Likert scale questions. We asked our users about a variety of subjects such as physical activity, stress, and how they interact with technology/social media. Google Forms then provided us with data based on the answers. Below, we will be presenting the data that we found the most useful for designing our various models (ex. user personas, user journeys, wireframes, etc.). The questionnaire and consent signatures can be found in the appendix.
  
 ## RESEARCH RESULTS
  
