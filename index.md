@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MIND&MATTER
 
 You can use the [editor on GitHub](https://github.com/giroux2000/SOEN357_Mini_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
