@@ -82,13 +82,19 @@ Having built user personas and an empathy map, it is now possible to define the 
 
 ### USER JOURNEY 1: THOMAS CLARK
 
+This user journey will look at accomplishing one of Thomas Clark's goals. The goal that we have selected to simulate is Thomas' goal to reconnect with friends as well as getting in shape. As we saw in our studies, not many people have been communicating with friends and family on a consistent basis throughout the pandemic. We also saw that their activity levels have dropped significantly indicating that this would be a great mix of user goals to simulate as it represents the vast majority of our users.
+
 ![User Journey 1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj1.png 'uj1')
 
 ### USER JOURNEY 2: CHARLOTTE WALKER
 
+Charlotte's user journey will look to reconnect with friends much like Thomas', however, in a different way. Some of the elders may not want to do exercise and would prefer to just be able to message and video chat with their friends. We decided that this would be a good user goal to simulate as many of the people we surveyed indicated that they have already used apps such as Facebook and Instagram. If we can include a messaging system similar to these applications, it may incentivize more people to use the app.
+
 ![User Journey 2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj2.png 'uj2')
 
 ### USER JOURNEY 3: CHARLES TRENT
+
+Charles' user journey will differ from the previous two. Instead of trying to reconnect with people he already knows, Charles will be trying to meet new people. The previous 2 user journey seem to cover all the information that we were able to get from the survey so we used the information to derive a new user goal. We saw that the average person does not interact with friends and family members through social media too often. This may be due to the fact that their friends and family don't use social media as much as they do so it would be hard to get these users to use the app. We thought that we could incentivize these users to try the app if they would be able to meet new people instead of interacting with people they already know.
 
 ![User Journey 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj3.png 'uj3')
 
