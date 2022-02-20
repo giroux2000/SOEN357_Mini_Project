@@ -128,3 +128,9 @@ Charles' user journey will differ from the previous two. Instead of trying to re
 ![Chantale](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/chantalesignature.png)
 
 ![Chloe](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/chloesignature.png)
+
+![Greg](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/gregsig.png)
+
+![Nancy](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/nancysig.png)
+
+![Rachael](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/rachaelsig.png)
