@@ -29,6 +29,7 @@
  We also found that our users' favourite activities are either walking or full-body movements. Our application will thus focus on these sports. Although there were many different complaints about different applications, we found that the single most common problem was poor usability. As such, user friendliness will be a major focus of our product. Also, the data shows that a third of elders communicate at most monthly with other family or friends. Again, this may be correlated with the increase in stress levels mentioned earlier. Our application will thus encourage social interaction. 
 
 ![Walk](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/walk.png 'walk')
+
 ![Usability](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/usability.png 'usability')
 
  Finally, although no common websites have been identified as being aesthetically pleasing, Facebook was mentioned by a third of our respondents as being the easiest to use. The social media application will thus serve as a guide to ensure user-friendliness in our product.
@@ -69,11 +70,13 @@ Charles Trent is a cashier who has settled down in Florida. Charles is a married
 
 ### EMPATHY MAP
 
+ The empathy map gives us a negative but realistic overview of the situation that too many elders have found themselves to be stuck in during the pandemic. Notably, they are socially isolated, they live routine-heavy sedentary and inactive lifestyles, they see and hear only negative or mundane things around them and they miss the way they used to live before quarantine started.
+
 ![Empathy map](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/empathy.png 'empathy')
 
 ### USER GOALS
 
-Having built user personas and an empathy map, it is now possible to define the user goals. These goals are defined in the "goals section of the user journeys and the "gains" section of the empathy map. To summarize, our product should help elders return to a healthier, busier and more active lifestyle, help elders interact with family, friends and new people, and help elders relieve stress. These goals, or end results, match the user requirements mentioned previously. 
+Having built user personas and an empathy map, it is now possible to define the user goals. These goals are defined in the "goals" section of the user personas and the "gains" section of the empathy map. To summarize, our product should help elders return to a healthier, busier and more active lifestyle, help elders interact with family, friends and new people, and help elders relieve stress. These goals, or end results, match the user requirements mentioned previously. 
 
 ## USER JOURNEYS
 
@@ -90,8 +93,17 @@ Having built user personas and an empathy map, it is now possible to define the 
 ![User Journey 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj3.png 'uj3')
 
 
+### CONCLUSION
+
 ## APPENDIX 
 
+![Nadia](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/Nadia.png 'nad')
+
+![Waguih](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/Waguih.png 'wag')
+
+![ehab](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/ehab.png 'ehab')
+
+![linda](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/linda.png 'linda')
 
 # Header 1
 ## Header 2
