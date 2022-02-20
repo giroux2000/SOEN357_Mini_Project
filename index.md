@@ -40,7 +40,7 @@ Charles Trent is a cashier who has settled down in Florida. Charles is a married
 
 ### USER JOURNEY 1: THOMAS CLARK
 
-![User Journey 1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj1.png 'uj1')
+<img src="https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj1.png" width="1300" height="500">
 
 ### USER JOURNEY 2: CHARLOTTE WALKER
 
