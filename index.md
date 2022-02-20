@@ -1,15 +1,37 @@
-## MIND&MATTER
+# MIND&MATTER
 
-You can use the [editor on GitHub](https://github.com/giroux2000/SOEN357_Mini_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## UNDERSTANDING THE PROBLEM 
+### THE EFFECTS OF COVID ON THE ELDERLY
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Since March of 2020, life has been extremely different for everybody. It started off as 2 weeks of isolation and measures being put in place to protect ourselves. However, time flew by and it has now been 2 years. Over the past year, some of the restrictions started to get lifted. Kids and teenagers resumed in person learning from at their high schools and elementary schools. Adults have started going back to university campuses as well as their offices. However, there is one age group that still has to take the situation very seriously. The elderly population is still greatly at risk and hasn’t had the luxury of life going back to normal as the other age groups have. The elderly were already extremely cautious with how often they would leave their homes and the rise of the contagious Omicron variable has made them even more stressed about the situation.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  As previously mentioned, the elderly have had to stay inside their homes for the greater part of the past 2 years. It may be the case that they choose to do the same for a bit longer due to the wave of the Omicron variant. We will be taking a look at 2 negative side effects that the pandemic has had on the elderly. The first is that they have had to reduce their social interaction. The constant fear for their health has led to limiting any physical visits with friends and family. This has led them to miss many of their friends and family members, hoping for an easy way to interact with those they cherish. The lockdown has also played a negative effect on their health. Staying at home has developed into a routine reducing their desire to go out and exercise. Not exercising for an extended period of time only increases the speed at which the effects of aging can occur. There must be a way to get the elderly to increase social interaction and exercising all while being in a safe environment to not risk their health.
+  
+ ## USER RESEARCH
+ 
+ We decided to use questionnaires to gather our user data. We did so using Google Forms and asked a variety of questions. The style of questions that were used include closed questions, open questions, and Likert scale questions. We asked our users about a variety of subjects such as physical activity, stress, and how they interact with technology/social media. Google Forms then provided us with data based on the answers. Below, we will be presenting the data that we found the most useful for designing our various models (ex. user personas, empathy maps, wireframes, etc.). The questionnaire and consent signatures can be found in the appendix.
+ 
+## RESEARCH RESULTS
+ 
+## USER PERSONAS
 
-```markdown
-Syntax highlighted code block
+We chose to develop user personas as they help us get a better understanding of the stakeholders and what exactly it is that they want from our product. They allow us to see a person and how they would want to use our product in their everyday lives. Implementing fictional user personas will also allow us to draw parallels to people that we have met throughout our lives and think about what they would want out of this kind of product. Finally, it allows the team to think about different views that people may have on the product. It is easy for a team to think about what is optimal and makes the most sense to them, however, users are unique and have opinions that will stray from those of the design team.
+
+### USER PERSONA 1: THOMAS CLARK, THE PRESCIENT
+
+### USER PERSONA 2: CHARLOTTE WALKER, THE COMFORTABLE
+
+### USER PERSONA 3: CHARLES TRENT, THE LIFELONG ADVENTURER
+
+## USER JOURNEYS
+
+### USER JOURNEY 1: THOMAS CLARK
+
+### USER JOURNEY 2: CHARLOTTE WALKER
+
+### USER JOURNEY 3: CHARLES TRENT
+
 
 # Header 1
 ## Header 2
