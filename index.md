@@ -20,13 +20,19 @@ We chose to develop user personas as they help us get a better understanding of 
 
 ### USER PERSONA 1: THOMAS CLARK, THE PRESCIENT
 
+Thomas Clark is a well established business man. He has a very well paying job and a loving family. However, he's starting to notice new aches and pains as he slowly feels age creeping up on him. Thomas wants to start exercising so that he can keep his body in shape as he starts to age. Thomas grew up exercising in groups with his friends so he would love to get them involved in any way that he can. Here is a bit more about Thomas in his user persona:
+
 ![User Persona 1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up1-1.png 'up1')
 
 ### USER PERSONA 2: CHARLOTTE WALKER, THE COMFORTABLE
 
+Charlotte Walker is a retired woman in her late sixties. She is divorced and has been very cautious in terms of physical contact throughout the pandemic. This means that she has barely been able to see her friends over the last two years. The isolation has made Charlotte extremely lonely and she wishes to be able to see her friends again while making sure that everyone stays safe. We delve further into who Charlotte is in her user persona: 
+
 ![User Persona 2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up2-1.png 'up2')
 
 ### USER PERSONA 3: CHARLES TRENT, THE LIFELONG ADVENTURER
+
+Charles Trent is a cashier who has settled down in Florida. Charles is a married man who spent his entire life moving from city to city with his wife since they love to explore and meet new people. However, since they are now in their sixties, they have decided to maintain a more sedentary lifestyle. The Covid restrictions have limited the amount of people that Charles can meet and interact with on a daily basis. Charles hopes to find a way to meet new people as staying inside all this time has started to bore him. Find out more about Charles in his user persona:
 
 ![User Persona 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up3-1.png 'p3')
 
