@@ -105,6 +105,12 @@ Having built user personas and an empathy map, it is now possible to define the 
 
 ![linda](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/linda.png 'linda')
 
+![Jean](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/jeansignature.png)
+
+![Chantale](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/chantalesignature.png)
+
+![Chloe](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/chloesignature.png)
+
 # Header 1
 ## Header 2
 ### Header 3
