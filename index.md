@@ -103,6 +103,18 @@ Charles' user journey will differ from the previous two. Instead of trying to re
 
 ## APPENDIX 
 
+### QUESTIONNAIRE
+
+![Questionnaire 1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/quest1-1.png)
+
+![Questionnaire 2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/quest2-1.png)
+
+![Questionnaire 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/quest3-1.png)
+
+![Questionnaire 4](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/quest4-1.png)
+
+### SIGNATURES
+
 ![Nadia](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/Nadia.png 'nad')
 
 ![Waguih](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/Waguih.png 'wag')
@@ -116,28 +128,3 @@ Charles' user journey will differ from the previous two. Instead of trying to re
 ![Chantale](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/chantalesignature.png)
 
 ![Chloe](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/chloesignature.png)
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/giroux2000/SOEN357_Mini_Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
