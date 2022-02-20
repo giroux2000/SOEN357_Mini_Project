@@ -10,10 +10,41 @@
   
 ## USER RESEARCH
  
- We decided to use questionnaires to gather our user data. We did so using Google Forms and asked a variety of questions. The style of questions that were used include closed questions, open questions, and Likert scale questions. We asked our users about a variety of subjects such as physical activity, stress, and how they interact with technology/social media. Google Forms then provided us with data based on the answers. Below, we will be presenting the data that we found the most useful for designing our various models (ex. user personas, user journeys, wireframes, etc.). The questionnaire and consent signatures can be found in the appendix.
+ We decided to use questionnaires to gather our user data. We did so using Google Forms and asked a variety of questions. The style of questions that were used include closed questions, open questions, and Likert scale questions. We asked our users about a variety of subjects such as physical activity, stress, and how they interact with technology/social media. Google Forms then provided us with data based on the answers.  In total, 10 participants answered the questionnaire Below, we will be presenting the data that we found the most useful for designing our various models (ex. user personas, user journeys, wireframes, etc.). The questionnaire and consent signatures can be found in the appendix.
  
 ## RESEARCH RESULTS
  
+ The first notable result from the questionnaire is that 100% of our participants have noticed an increase in stress since the pandemic. This solidifies the current need of a stress-relieving product for elders.
+
+![Stress](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/stress.png 'stress')
+
+ Next, there is a significant decrease in overall activity since the quarantine started. Although this data is not enough to state that the decrease in activity induces stress, it is strong evidence towards a correlation between inactivity and stress. This information shapes a key concept of our product: activity incentivization. It also relates to the task at hand which is to create an application that improve elders' physical and mental wellbeing. By encouraging elders to exercise, we improve both their physical and psychological state.
+
+![Activity](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/activity.png 'activity')
+
+ We found that most participants had not participated in online classes. However, the few that did rated their experience as being either "average" or "above average". Also, a third of our participants expressed interest in the idea of online classes. This tells us that organizing online classes in our application may be an interesting prospect for our product. One participant mentioned wishing online classes were more flexible, so multiple hours and schedules will be a priority in this section of our product.
+
+![Online](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/online.png 'online')
+
+ We also found that our users' favourite activities are either walking or full-body movements. Our application will thus focus on these sports. Although there were many different complaints about different applications, we found that the single most common problem was poor usability. As such, user friendliness will be a major focus of our product. Also, the data shows that a third of elders communicate at most monthly with other family or friends. Again, this may be correlated with the increase in stress levels mentioned earlier. Our application will thus encourage social interaction. 
+
+![Walk](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/walk.png 'walk')
+![Usability](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/usability.png 'usability')
+
+ Finally, although no common websites have been identified as being aesthetically pleasing, Facebook was mentioned by a third of our respondents as being the easiest to use. The social media application will thus serve as a guide to ensure user-friendliness in our product.
+
+ ![Facebook](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/facebook.png 'facebook')
+ 
+## USER REQUIREMENTS
+
+ The information gathered from our questionnaires defines our user requirements. Our users need an application that incentivizes activity and social interaction to reduce their stress levels. They want something that is easily usable and that ideally encourages walking or full-body movements as exercises. They also want flexible schedules. In the following sections, we will investigate user personas, journeys and empathy maps to define our user goals.
+ 
+ ## REASONING FOR CHOSEN TOOLS
+ 
+ First, it is important to rationalize the usage of personas, journeys and empathy maps. Initially, user personas tells us a little bit of who our target audience is, but they are not adequate when it comes to deeper understanding and extensively reporting their attitudes, their well-being, their daily life and their physical state. Using both user personas and empathy maps ensures completeness of our user goals and understanding of the problem. First, we specify the elders we target and find patterns on their goals, their background, their personalities, their frustrations, their motivations, concerns, etc. Once we know the specific group that we are targeting, we can delve deeper and use the information we gathered through our research to summarize what they said and did, as well as what we believe they were thinking and feeling. Doing this gives us a more accurate understanding of their perspective and a clearer path towards what our user goals should be. Synthesized in the gains and pains section of the empathy map created are the goals, the needs we strive to fulfill with our product.
+
+Having a general overview of our target audience, a deeper understanding of their perspectives and the knowledge of their needs, we can start imagining the workings. This is where the user journeys come into play. It gives us the general idea of how elders will use our product, it tells us how their feelings will change and how their needs will be fulfilled with our application.
+
 ## USER PERSONAS
 
 We chose to develop user personas as they help us get a better understanding of the stakeholders and what exactly it is that they want from our product. They allow us to see a person and how they would want to use our product in their everyday lives. Implementing fictional user personas will also allow us to draw parallels to people that we have met throughout our lives and think about what they would want out of this kind of product. Finally, it allows the team to think about different views that people may have on the product. It is easy for a team to think about what is optimal and makes the most sense to them, however, users are unique and have opinions that will stray from those of the design team.
@@ -35,6 +66,14 @@ Charlotte Walker is a retired woman in her late sixties. She is divorced and has
 Charles Trent is a cashier who has settled down in Florida. Charles is a married man who spent his entire life moving from city to city with his wife since they love to explore and meet new people. However, since they are now in their sixties, they have decided to maintain a more sedentary lifestyle. The Covid restrictions have limited the amount of people that Charles can meet and interact with on a daily basis. Charles hopes to find a way to meet new people as staying inside all this time has started to bore him. Find out more about Charles in his user persona:
 
 ![User Persona 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/up3-1.png 'p3')
+
+### EMPATHY MAP
+
+![Empathy map](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/empathy.png 'empathy')
+
+### USER GOALS
+
+Having built user personas and an empathy map, it is now possible to define the user goals. These goals are defined in the "goals section of the user journeys and the "gains" section of the empathy map. To summarize, our product should help elders return to a healthier, busier and more active lifestyle, help elders interact with family, friends and new people, and help elders relieve stress. These goals, or end results, match the user requirements mentioned previously. 
 
 ## USER JOURNEYS
 
