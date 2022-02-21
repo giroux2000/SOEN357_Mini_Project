@@ -112,10 +112,13 @@ Charles' user journey will differ from the previous two. Instead of trying to re
 ![Wireframes](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/wireframe.png)
 
 
-
 ## MOCKUP
 
+![Mockup](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/mockup.png)
 
+## COLOR PALLETE AND TYPOGRAPHY
+![Color](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/color.png)
+![Typography](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/typography.png)
 ### CONCLUSION
 
 ## APPENDIX 
