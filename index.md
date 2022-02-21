@@ -122,7 +122,10 @@ Charles' user journey will differ from the previous two. Instead of trying to re
 ## COLOR PALLETE AND TYPOGRAPHY
 ![Color](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/color.PNG)
 ![Typography](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/typography.PNG)
-### CONCLUSION
+
+### FINAL THOUGHTS
+
+This project gave us insight on how to design an application for a user. We have already developped applications and websites throughout our university careers, however, this was a unique experience. We had to do research to see what it is that the user would actually want from a product of this nature. Then, using the information we gathered, we created user personas, an empathy map, and user journeys to get a better understanding of who it was that we were designing the application for. Once all the research and planning was done, we were finally able to work on designing the final product incrimentally. Every increment of the design increased the complexity of the design starting with basic sketches, then a wireframe, and finally a mockup. To conclude, this project was extremely useful as it taught us to look at application development in a completely different way.
 
 ## APPENDIX 
 
