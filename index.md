@@ -50,7 +50,7 @@ Having a general overview of our target audience, a deeper understanding of thei
 
 ## USER PERSONAS
 
-We chose to develop user personas as they help us get a better understanding of the stakeholders and what exactly it is that they want from our product. They allow us to see a person and how they would want to use our product in their everyday lives. Implementing fictional user personas will also allow us to draw parallels to people that we have met throughout our lives and think about what they would want out of this kind of product. Finally, it allows the team to think about different views that people may have on the product. It is easy for a team to think about what is optimal and makes the most sense to them, however, users are unique and have opinions that will stray from those of the design team.
+We chose to develop user personas as they help us get a better understanding of the users and what exactly it is that they want from our product. They allow us to see a person and how they would want to use our product in their everyday lives. Implementing fictional user personas will also allow us to draw parallels to people that we have met throughout our lives and think about what they would want out of this kind of product. Finally, it allows the team to think about different views that people may have on the product. It is easy for a team to think about what is optimal and makes the most sense to them, however, users are unique and have opinions that will stray from those of the design team.
 
 ### USER PERSONA 1: THOMAS CLARK, THE PRESCIENT
 
