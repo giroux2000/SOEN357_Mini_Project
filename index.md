@@ -114,11 +114,11 @@ Charles' user journey will differ from the previous two. Instead of trying to re
 
 ## MOCKUP
 
-![Mockup](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/mockup.png)
+![Mockup](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/mockup.PNG)
 
 ## COLOR PALLETE AND TYPOGRAPHY
-![Color](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/color.png)
-![Typography](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/typography.png)
+![Color](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/color.PNG)
+![Typography](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/typography.PNG)
 ### CONCLUSION
 
 ## APPENDIX 
