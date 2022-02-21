@@ -101,7 +101,12 @@ Charles' user journey will differ from the previous two. Instead of trying to re
 ## SKETCHES
 
 ![Sketche-1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/homepage.jpg)
-![Sketche-1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/homepageactual.jpg)
+![Sketche-2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/homepageactual.jpg)
+![Sketche-3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/mind.jpg)
+![Sketche-4](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/body.jpg)
+![Sketche-5](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/friends.jpg)
+
+
 ## WIREFRAMES
 
 ![Wireframes](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/wireframe.png)
