@@ -103,6 +103,8 @@ Charles' user journey will differ from the previous two. Instead of trying to re
 
 ## SKETCHES
 
+Based on the information collected, the main features implemented in this app are divided into two categories: mind and body. The mind section consists of a gratitude journal and guided meditation. These were chosen after some research indicating that both meditation and gratitude journals assist with mental wellbeing. The body section consists of choosing the option of cardiovascular, yoga, or group workouts. For both mind and body, app users can invite friends to join them during their sessions.
+
 ![Sketche-1](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/homepage.jpg)
 ![Sketche-2](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/homepageactual.jpg)
 ![Sketche-3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/mind.jpg)
@@ -112,14 +114,23 @@ Charles' user journey will differ from the previous two. Instead of trying to re
 
 ## WIREFRAMES
 
+For simplicity, only the basic flow through the app is shown in the following figure. The buttons at the bottom nagivate to their respective pages, and the "Back" button returns to the previous page. 
+
 ![Wireframes](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/wireframe.png)
 
 
 ## MOCKUP
 
+The main style choice for the design of the mockup is minimalism. However, based on the population that this app is targeting, we wanted to ensure that each option was clearly indicated. For example, each button is designed to pop out of the page where each input box was designed to sink into the page.  
+
 ![Mockup](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/mockup.PNG)
 
 ## COLOR PALLETE AND TYPOGRAPHY
+
+The main colors chosen are a light blue, dark blue and white. These colors allow for good contrast so each option is clearly defined. 
+The main color scheme is blue as it brings the feeling of calmness.
+
+
 ![Color](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/color.PNG)
 ![Typography](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/typography.PNG)
 
