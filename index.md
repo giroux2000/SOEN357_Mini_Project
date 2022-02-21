@@ -96,6 +96,7 @@ Charlotte's user journey will look to reconnect with friends much like Thomas', 
 
 Charles' user journey will differ from the previous two. Instead of trying to reconnect with people he already knows, Charles will be trying to meet new people. The previous 2 user journey seem to cover all the information that we were able to get from the survey so we used the information to derive a new user goal. We saw that the average person does not interact with friends and family members through social media too often. This may be due to the fact that their friends and family don't use social media as much as they do so it would be hard to get these users to use the app. We thought that we could incentivize these users to try the app if they would be able to meet new people instead of interacting with people they already know.
 
+![User Journey 3](https://raw.githubusercontent.com/giroux2000/SOEN357_Mini_Project/gh-pages/uj3.png 'uj3')
 
 
 ## SKETCHES
