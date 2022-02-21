@@ -82,6 +82,8 @@ Having built user personas and an empathy map, it is now possible to define the 
 
 ## USER JOURNEYS
 
+User journeys are a great tool to further understand our users. User journeys allow us to take the user goals which have been presented in the user personas and see how they would apply to real life. Every user journey starts with a goal in mind and sees how the user will accomplish their task. The user's thoughts, actions, feelings, and emotions are taken into account at every step of the process to understand what may be frustrating for the user. The process of creating a user journey also allows the people creating them to realize if there is a flaw in their design in the case where the flow of actions feels unnatural.
+
 ### USER JOURNEY 1: THOMAS CLARK
 
 This user journey will look at accomplishing one of Thomas Clark's goals. The goal that we have selected to simulate is Thomas' goal to reconnect with friends as well as getting in shape. As we saw in our studies, not many people have been communicating with friends and family on a consistent basis throughout the pandemic. We also saw that their activity levels have dropped significantly indicating that this would be a great mix of user goals to simulate as it represents the vast majority of our users.
